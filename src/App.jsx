@@ -66,7 +66,7 @@ const App = () => {
               {view === 'home' ? 'Team / About Us' : 'Return to Journey'}
             </button>
             <p className="font-body font-light text-xs text-[#0A0A0A]/30 tracking-wide">
-              © 2025 — Gollabhama Weaver Research
+              Misfits - 2026
             </p>
           </div>
         </div>
